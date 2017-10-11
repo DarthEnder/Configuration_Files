@@ -1,0 +1,6 @@
+// Place your settings in this file to overwrite the default settings
+{
+    "git.enabled": false,
+    "csharp.suppressDotnetInstallWarning": true,
+    "editor.codeLens": false,
+}

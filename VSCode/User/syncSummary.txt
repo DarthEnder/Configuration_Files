@@ -1,0 +1,30 @@
+VISUAL STUDIO CODE SETTINGS SYNC 
+Version: 2.8.1
+
+Upload Summary
+
+--------------------
+GITHUB TOKEN: db065035a357b60f7d83aa704dfe6c3c55027a55
+GITHUB GIST: be6fa6fe7604309709aa9f12a2d3019e
+GITHUB GIST TYPE: Secret
+
+--------------------
+
+If current theme / file icon extension is not installed. Restart will be Required to Apply Theme and File Icon.
+
+
+Files Upload.
+
+extensions.json
+settings.json
+settings.json-1493827043713.backup
+vsicons.settings.json
+
+
+EXTENSIONS ADDED :
+
+code-settings-sync - Version :2.8.1
+csharp - Version :1.10.0
+csharpfixformat - Version :0.0.27
+unity-debug - Version :1.2.0
+vscode-great-icons - Version :2.1.7
