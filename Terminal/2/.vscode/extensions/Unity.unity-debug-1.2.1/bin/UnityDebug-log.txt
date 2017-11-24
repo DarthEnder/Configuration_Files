@@ -1,0 +1,5 @@
+00:17:41.631784: Log
+---
+
+00:17:41.676745: UnityDebug
+00:17:42.932592: Found Unity process: Unity Editor (Unity) (2700)
