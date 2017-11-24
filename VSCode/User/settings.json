@@ -1,7 +1,7 @@
 // Place your settings in this file to overwrite the default settings
 {
     "git.enabled": true,
-    "csharp.suppressDotnetInstallWarning": true,
+    "csharp.suppressDotnetInstallWarning": false,
     "editor.codeLens": false,
     "workbench.iconTheme": "vscode-great-icons",
     "workbench.activityBar.visible": true,
@@ -12,7 +12,7 @@
     "editor.renderIndentGuides": false,
     "editor.fontSize": 12,
     "editor.cursorStyle": "block",
-    "editor.fontFamily": "Droid Sans Mono Awesome",
+    "editor.fontFamily": "'Droid Sans Mono Awesome'",
     "editor.lineHeight": 17,
     "editor.letterSpacing": 0,
     "editor.lineNumbers": "relative",
@@ -25,11 +25,14 @@
     "window.nativeTabs": false,
     "zenMode.restore": true,    
     "window.zoomLevel": 0,
-    "vim.disableAnnoyingNeovimMessage": true,
     "editor.smoothScrolling": true,
     "editor.fontWeight": "normal",
     "editor.accessibilitySupport": "off",
-   
+    "workbench.panel.location": "bottom",
+    "zenMode.hideTabs": false,
+    "zenMode.hideStatusBar": false,
+    "editor.acceptSuggestionOnEnter": "on",
+    "editor.acceptSuggestionOnCommitCharacter": false,
     
 
 //////////////THEMES///////////////////
@@ -374,6 +377,7 @@
         }
     ]
 },
+
 
 //This is where the Darker Zenburn Theme ends*/
 /*/This is where the BRC Theme starts
